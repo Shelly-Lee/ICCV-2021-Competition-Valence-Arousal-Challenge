@@ -25,7 +25,7 @@ python3 main.py --label_name valence --save_root valence
 ```
 Testing
 ```bash
-python3 main.py --label_name arousal --save_root arousal --test
+python3 main.py --label_name valence --save_root valence --test
 python3 merge_test_predictions.py
 python3 output.py
 ```
