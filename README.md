@@ -6,7 +6,7 @@ Paper Link: https://arxiv.org/pdf/2107.03891.pdf
 
 ## Requirements:
 
- [Resnet50 Pretrained Model](https://www.robots.ox.ac.uk/~albanie/pytorch-models.html) (resnet50_ferplus_dag)
+ Resnet50 Pretrained Model ([resnet50_ferplus_dag](https://www.robots.ox.ac.uk/~albanie/pytorch-models.html))
 
  Aff-Wild2 Dataset : The competition organizers provide the cropped-aligned images.
 ## Installation
