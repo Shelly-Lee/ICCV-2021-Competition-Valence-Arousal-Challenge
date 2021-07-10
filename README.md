@@ -4,7 +4,7 @@ Submission to ICCV 2021: 2nd Workshop and Competition on Affective Behavior Anal
 
 Paper Link: https://arxiv.org/pdf/2107.03891.pdf
 
-## Requirements:
+## Requirements
 
  Resnet50 Pretrained Model ([resnet50_ferplus_dag](https://www.robots.ox.ac.uk/~albanie/pytorch-models.html))
 
